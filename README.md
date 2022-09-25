@@ -9,3 +9,12 @@
 ![ubuntu](./assets/ubuntu.png)
 
 
+### Arch
+- for intermediate users only
+- may be difficult to use
+- has possibility of breaking
+- reduced amount of bloatware
+
+![arch](./assets/arch.png)
+
+
