@@ -18,3 +18,10 @@
 ![arch](./assets/arch.png)
 
 
+### Fedora
+- easy to use
+- updates automatically
+- sponsored by Red Hat
+
+![fedora](./assets/fedora.png)
+
