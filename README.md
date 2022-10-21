@@ -23,5 +23,4 @@
 - updates automatically
 - sponsored by Red Hat
 
-![fedora](./assets/fedora.png)
 
