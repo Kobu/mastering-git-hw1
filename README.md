@@ -23,4 +23,10 @@
 - updates automatically
 - sponsored by Red Hat
 
+<!-- TODO add Gentoo -->
+### Gentoo
+- highly configurable
+- support different init systems, not only systemd
+- for wizards only
 
+![gentoo](./assets/gentoo.png)
