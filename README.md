@@ -23,6 +23,7 @@
 - updates automatically
 - sponsored by Red Hat
 
+
 ### Gentoo
 - highly configurable
 - support different init systems, not only systemd
